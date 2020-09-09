@@ -1,2 +1,2 @@
-# Colliding_Rectangles
-Algorithm for colliding rectangles
+# collisionAlgorithm
+Algorithm to detect collision between two objects
